@@ -34,7 +34,7 @@
 
 ## 🔥 Contributions:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asad-as2&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asad-as1&theme=dark)](https://git.io/streak-stats)
 
 ## ✨ Stats
 
