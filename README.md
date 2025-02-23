@@ -32,9 +32,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 </div>
 
-## 🔥 Contributions:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=asad-as1&theme=dark)](https://git.io/streak-stats)
 
 ## ✨ Stats
 
