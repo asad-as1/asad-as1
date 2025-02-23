@@ -38,7 +38,7 @@
 
 ## ✨ Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asad-as1&show_icons=true&theme=radical)
+![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asad-as1&show_icons=true&theme=radical)
 
 ## Languages
 
