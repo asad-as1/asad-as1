@@ -32,6 +32,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 </div>
 
+## 🔥 Contributions:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsingha99&&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
 ## ✨ Stats
 
