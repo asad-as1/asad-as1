@@ -34,7 +34,7 @@
 
 ## 🔥 Contributions:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsingha99&&show_icons=true&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asad-as1&&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
 ## ✨ Stats
 
